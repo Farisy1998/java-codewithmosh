@@ -1,0 +1,3 @@
+A stream in java is like a pipe line to pump objects outside 
+of a collection or colleaction of objects based on certain
+condition.

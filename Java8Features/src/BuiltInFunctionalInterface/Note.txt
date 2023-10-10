@@ -1,0 +1,5 @@
+There are 4 types of functional interfaces in java:-
+1. Consumer - eg: void print(String message);
+2. Supplier - eg: obj print();
+3. Function - eg: Obj print(String message);
+4. Predicate - eg: boolean test(condition);

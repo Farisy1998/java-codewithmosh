@@ -1,0 +1,10 @@
+In programing there are different types of programing
+paradigm:-
+1. Functional
+2. Declarative
+3. Imperative
+4. Object oriented
+5. Event driven
+6. procedural
+
+here functional and declarative are mostly same.

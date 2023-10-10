@@ -1,0 +1,24 @@
+Strategies tp create a thread safe code. Also known as solutions
+for concurrency issues.
+Thread Safe Code means a code that can be safely executed across 
+multiple threads.
+
+1. Confinement - To confine or restrict each thread have its 
+                 own data.
+2. Immutability - To share immutable objects accross multiple 
+                  threads.
+                  So the data stored in the original object won't change.
+3. Syncronization - Restricting multiple threads to access a
+                    resource concurrently. We do this by using
+                    locks on critical sections of a program. 
+                    But the syncronization is not a perfect solution.
+                    Becuz this will lead to a dead lock state 
+                    some time.
+4. Volatile Keyword - it solves the visibility problem of threads. 
+                    But it doesn't solve the race condition. Means if
+                    one thread changes the data other thread can able to 
+                    see the change.
+5. Atomic objects - By using atomic classes in java.
+                    Means the JVM won't break the operation on this atomic objects in to different steps instead this will  done in a single step.
+6. Partitoning - Partitoning data in to segments that can be
+                 access concurrently.

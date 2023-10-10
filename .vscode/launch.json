@@ -1,0 +1,378 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "AsyncronousAPI.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CompletableFuture.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CallableAndFuture.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CreatingThreadPool.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.ConcurrentCollection.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.SyncronizedCollection.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.AdderClass.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.AtomicObjects.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.WaitAndNotifyMethods.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.VolatileKeyword.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.SyncronizedBlock.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.SyncronizationLock.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SolutionsOnConcurrencyIssues.Confinement.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ConcurrencyIssues.RaceCondition.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "ThreadInterruptDemo",
+            "request": "launch",
+            "mainClass": "ThreadInterruptDemo.ThreadInterruptDemo",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "JoinDemo",
+            "request": "launch",
+            "mainClass": "ThreadJoinDemo.JoinDemo",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ThreadDemo.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "PrimitiveStreams.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "PartitioningElementsInCollection.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "GroupingElementsInCollection.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "DistinctDemo",
+            "request": "launch",
+            "mainClass": "DistinctInStream.DistinctDemo",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "CreatingStreamsDemo",
+            "request": "launch",
+            "mainClass": "CreatingStreams.CreatingStreamsDemo",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "FunctionalInterface_WithLambdaExpression.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "MapDemo",
+            "request": "launch",
+            "mainClass": "Map.MapDemo",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "SetDemo",
+            "request": "launch",
+            "mainClass": "Set.SetDemo",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ComparatorInterace.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Mian",
+            "request": "launch",
+            "mainClass": "IterableInterface.Mian",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "GenericMethod.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ComparableInterface.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "concept.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CustomException.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "FinallyBlock",
+            "request": "launch",
+            "mainClass": "FinallyBlock",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "MutipleExceptions",
+            "request": "launch",
+            "mainClass": "MutipleExceptions",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "SingleException",
+            "request": "launch",
+            "mainClass": "SingleException",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "RethowExceptions.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TryWithResourceStatement.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MyTube.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Interface.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Polymorphism.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OverridingEqualsMethod.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Inheritance.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MortgageCalculator.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MortgageCalculator_OOP.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Constructor.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Abstraction.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Encapsulation.Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "Method",
+            "projectName": "java_b8384a8c"
+        },
+        {
+            "type": "java",
+            "name": "MortgageCalculator",
+            "request": "launch",
+            "mainClass": "MortgageCalculator",
+            "projectName": "java_b8384a8c"
+        }
+    ]
+}
