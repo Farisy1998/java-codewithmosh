@@ -8,6 +8,34 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "ComposingCompletableFuture.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TransformingCompetableFuture.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "HandilingException.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CompletableFuture.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "AsyncronousAPI.Main",
             "projectName": "java_b8384a8c"
         },
