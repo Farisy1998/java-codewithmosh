@@ -8,6 +8,34 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Excersise.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TimeOutCompletableFuture.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "GettingFastestCompletableFuture.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "CombiningCompletableFuture.Main",
+            "projectName": "java-codewithmosh_a28d9147"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "ComposingCompletableFuture.Main",
             "projectName": "java-codewithmosh_a28d9147"
         },
